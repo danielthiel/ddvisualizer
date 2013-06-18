@@ -1,3 +1,15 @@
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Virtual Environment VENV
+venv
+
+# Project generated files
+output.html
+output.json
+
+# Python compiled files
 *.py[cod]
 
 # C extensions
