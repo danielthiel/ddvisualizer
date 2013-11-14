@@ -6,6 +6,11 @@ ddvisualizer
 
 ## Requirements
 
+Packages ...
+```shell
+sudo apt-get install libpq-dev python-dev
+```
+
 Templating doned by [Jinja2](http://jinja.pocoo.org/).
 
 ```shell
